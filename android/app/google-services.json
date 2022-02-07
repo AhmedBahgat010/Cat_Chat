@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587778126732",
+    "project_id": "chatca-4755f",
+    "storage_bucket": "chatca-4755f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587778126732:android:2a4414a4cafe345b99dca9",
+        "android_client_info": {
+          "package_name": "com.example.chatcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587778126732-deh9lvplnj5tudl5d7mq84qgjvtcv8j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQZpVeFs2HdE8CbL4eL8zJtMT9X5K8tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587778126732-deh9lvplnj5tudl5d7mq84qgjvtcv8j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
